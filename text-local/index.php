@@ -6,7 +6,7 @@
 	$apiKey = urlencode('hstIXnOGjEc-wulrfQ1WjUzBnBlT33HexzxaY2xe86');
 	
 	// Message details
-	$numbers = array(9656144192);
+	$numbers = array(9632587412);
 	$sender = urlencode('Binsha');
 	$message = rawurlencode('Binsha testing sms api');
  
