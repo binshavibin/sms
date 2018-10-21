@@ -1,11 +1,11 @@
     <?php
     	// Account details
-    	$apiKey = urlencode('Your apiKey');
+    	$apiKey = urlencode('hstIXnOGjEc-wulrfQ1WjUzBnBlT33HexzxaY2xe86');
      
     	// Message details
-            $numbers = 447123456789 .",". 447987654321;
-    	$sender = 'YourNumber';
-    	$message = 'This is your message';
+            $numbers = 9656144192;
+    	$sender = '9048204205';
+    	$message = 'Binsha Test';
     	$url = 'https://api.txtlocal.com/image-logo.png';
      
     	// Prepare data for POST request
