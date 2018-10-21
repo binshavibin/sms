@@ -3,8 +3,8 @@
     	$apiKey = urlencode('hstIXnOGjEc-wulrfQ1WjUzBnBlT33HexzxaY2xe86');
      
     	// Message details
-            $numbers = 9656144192;
-    	$sender = '9048204205';
+            $numbers = 9632587412;
+    	$sender = '7412589632';
     	$message = 'Binsha Test';
     	$url = 'https://api.txtlocal.com/image-logo.png';
      
